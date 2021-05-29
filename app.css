@@ -10,10 +10,6 @@ body {
     
 }
 
-.navbar-brand{
-    padding-left: 30px;
-}
-
 
 .cus-div{
     width: 100%;
@@ -60,6 +56,10 @@ background: rgba(0, 0, 0, 0.6);
 .content h1{
     color: white;
     font-family: 'Unna', serif;
+}
+
+.navbar-brand{
+    padding-left: 30px;
 }
 
 #mainNavbar .nav-link{
@@ -112,10 +112,6 @@ a{
     margin-top: 100px;
 }
 
-a.yt {
-    background: transparent;
-    text-decoration: none;
-}
 
 
 
@@ -218,13 +214,5 @@ hr.line{
     height: 35%;   
 }
 
-a.inst{
-    background: transparent;
-    text-decoration: none;
-}
-
-
-
-        
 
 
