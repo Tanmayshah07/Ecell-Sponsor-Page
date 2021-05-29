@@ -10,6 +10,10 @@ body {
     
 }
 
+.navbar-brand{
+    padding-left: 30px;
+}
+
 
 .cus-div{
     width: 100%;
