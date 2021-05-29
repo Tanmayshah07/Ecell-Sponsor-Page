@@ -58,10 +58,6 @@ background: rgba(0, 0, 0, 0.6);
     font-family: 'Unna', serif;
 }
 
-.navbar-brand{
-    padding-left: 30px;
-}
-
 #mainNavbar .nav-link{
     color: white;
     padding-left: 30px;
@@ -112,6 +108,10 @@ a{
     margin-top: 100px;
 }
 
+a.yt {
+    background: transparent;
+    text-decoration: none;
+}
 
 
 
@@ -213,6 +213,12 @@ hr.line{
     width: 70%;
     height: 35%;   
 }
+
+a.inst{
+    background: transparent;
+    text-decoration: none;
+}
+
 
 
         
